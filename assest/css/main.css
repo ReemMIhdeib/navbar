@@ -1,17 +1,14 @@
-.header{
-    background-color: rgb(129, 128, 128,0.8);
-    
-}
+
 .navbar-toggler {
   border: none;
   box-shadow: none;
   
 }
 .text__color{
-    color: #f3f6f4;
+    color: #f3f6f4 !important;
 }
  .social:hover {
-    color: #279ae4;;
+    color: #279ae4 !important;
  }
  .active{
     color: white !important;
